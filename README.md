@@ -2,15 +2,8 @@
 
 KingRich made it - Italy
 
-**DOWNLOAD:** https://github.com/KingRich-larp/TFRP_loadingscreen
 
-**DOWNLOAD V.2:** https://github.com/KingRich-larp/tfrploadingv2
-
-**V.2 Screen:** https://cdn.discordapp.com/attachments/506519194242777137/588474733650247680/loading.PNG
-
-**Live Browser (V.1)**
- 1 - [Live browser 1](https://groovygiantpanda.github.io/)
- 2 - [Live Browser 2](https://streamable.com/7b39u)
+**Screen:** https://cdn.discordapp.com/attachments/506519194242777137/588474733650247680/loading.PNG
 
 ## License
 
@@ -34,19 +27,6 @@ V.1:
 - I simply downloaded the loadingscreen from Github and i have made this changes:
     - Changed the logo
     - Added a music and edit the html code
-
-## How To edit
-
-- How to edit the logo, bg or music?
-    - If you want to replace the logo just replace the file "logo.PNG" ##the new logo must have the same name
-    - If you want to replace the BG just replace the "background" file ##The background file must have the same name
-    - If you want to replace the Music just replace the file "Loading.ogg" in "music" folder
-
-    !! Note !!
-
-    The name and extensions of all file you replace must have the same name of the file replaced
-
-    If you want to ear the music in the browser use FireFrox browser because google does not support the ogg file
 
 ## Author
 
